@@ -6,7 +6,7 @@ const App = () => {
     <View style={styles.screen}>
       <Text style={styles.title}>U-KOST</Text>
       <Text>Universitas Klabat Kost</Text>
-      <Text>ALDIO TEST BRANCH MOBPRO</Text>
+      <Text>ALDIO TEST BRANCH</Text>
     </View>
   );
 };
