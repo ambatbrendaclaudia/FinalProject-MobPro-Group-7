@@ -6,6 +6,7 @@ const App = () => {
     <View style={styles.screen}>
       <Text style={styles.title}>U-KOST</Text>
       <Text>Universitas Klabat Kost</Text>
+      <Text>Brenda Ambat - Testing Branch</Text>
     </View>
   );
 };
